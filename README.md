@@ -27,7 +27,7 @@ Al ejecutar la aplicación, se abrirá una ventana que contiene todos los contro
 
 ## codigo
 
-````phppackage formulario;
+````package formulario;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
