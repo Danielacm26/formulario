@@ -27,7 +27,7 @@ Al ejecutar la aplicación, se abrirá una ventana que contiene todos los contro
 
 ## codigo
 
-````package formulario;
+package formulario;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -37,7 +37,6 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 public class formulario extends Application {
-```
 
     @Override
     public void start(Stage primaryStage) {
@@ -133,4 +132,4 @@ public class formulario extends Application {
         launch(args);
     }
 }
-```
+
